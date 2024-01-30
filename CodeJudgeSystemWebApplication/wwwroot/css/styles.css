@@ -2,36 +2,9 @@
     font-family: "Inter", serif;
 }
 
-@font-face {
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 700;
-    font-display: fallback;
-    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_700.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 500;
-    font-display: fallback;
-    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_500.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 600;
-    font-display: fallback;
-    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_600.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 400;
-    font-display: fallback;
-    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_400.ttf') format('truetype');
+body {
+    margin: 0;
+    line-height: 1.6;
 }
 
 @font-face {
