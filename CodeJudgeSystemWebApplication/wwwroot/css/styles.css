@@ -1,0 +1,124 @@
+﻿html {
+    font-family: "Inter", serif;
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-display: fallback;
+    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_700.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-display: fallback;
+    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_500.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-display: fallback;
+    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_600.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-display: fallback;
+    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_400.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-display: fallback;
+    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_700.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-display: fallback;
+    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_500.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-display: fallback;
+    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_600.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-display: fallback;
+    src: url('https://s0.wp.com/wp-content/themes/pub/creatio-2/assets/fonts/inter_normal_400.ttf') format('truetype');
+}
+
+h3 {
+    margin-top: 12px;
+    font-size: 2rem;
+}
+
+p {
+    font-size: 20px;
+}
+
+footer ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background-color: rgba(17, 24, 31, 1);
+    color: white;
+    padding: 20px 48px;
+}
+
+footer p {
+    font-size: 18px;
+}
+
+footer a {
+    color: white;
+}
+
+.social-bubble {
+    width: 35px; 
+    height: 35px;
+    border-radius: 50%;
+    margin: 0 10px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.social-bubble svg {
+    fill: #ffffff; 
+}
+
+
+.facebook {
+    background-color: #1877f2; 
+}
+
+.instagram {
+    background-color: #e1306c; 
+}
+
+.youtube {
+    background-color: #FF0000; /* YouTube color */
+}
