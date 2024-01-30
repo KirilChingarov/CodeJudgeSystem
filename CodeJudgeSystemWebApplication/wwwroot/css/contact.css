@@ -3,6 +3,7 @@
     font-style: italic;
     color: #ff8d00;
 }
+
 body{
     background-image: url("../Pictures/contact.jpg");
     background-repeat: no-repeat;
@@ -10,12 +11,23 @@ body{
     background-size: cover;
     position: relative;
 }
-.contacts{
+
+.header p {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.contacts {
     text-align: right;
     font-style: italic;
     color: #ff8d00;
     font-size: 23px;
+    margin-right: 20px;
 }
+
 .question-box {
     background-color: #ff8d00;
     border-radius: 8px;
@@ -26,10 +38,13 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+
 .question-box h2 {
+    font-size: 2rem;
     margin-bottom: 20px;
     color: #333;
 }
+
 .question-box textarea {
     width: 100%;
     padding: 10px;
@@ -39,6 +54,7 @@ body{
     box-sizing: border-box;
     resize: vertical;
 }
+
 .question-box button {
     width: 100%;
     padding: 10px;
